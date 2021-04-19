@@ -1,9 +1,6 @@
 # Vislice
 
-## Podnaslov
+Projekt vislice za uvod v programiranje
 
-### Podpodnaslov
-
-
-
+Avtor:
 Matic Matušek
